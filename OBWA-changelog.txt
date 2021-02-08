@@ -1,0 +1,1 @@
+{'ver1':'17', 'ver2':'00', 'ver3':'\n  تحديث جديد لجميع نسخ واتساب عمر العنابي , الوردي , الأزرق , الأخضر , الإصدار رقم v28\n' , 'dli':'https://www.almobasheronline.com/obwhatsapp'}
